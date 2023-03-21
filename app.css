@@ -212,14 +212,15 @@ footer a:hover {
 @media (max-width: 615px) {
   body {
     display: grid;
-    width: 500px;
+    width: 375px;
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
   }
 
   main {
     flex-direction: column;
-    margin: 0 auto;
+    /* margin: 0 auto; */
+    width: 100%;
   }
 
   .summary,
