@@ -197,7 +197,7 @@ footer a:hover {
   color: var(--Green-teal);
 }
 
-@media (max-width: 940px) {
+@media (max-width: 1000px) {
   body {
     width: 600px;
   }
